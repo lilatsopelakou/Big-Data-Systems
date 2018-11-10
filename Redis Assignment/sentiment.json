@@ -1,0 +1,140 @@
+{
+    "CSCO": [
+        {
+            "media": "Bloomberg",
+            "sentiment": 1
+        },
+        {
+            "media": "BBC",
+            "sentiment": 2
+        },
+        {
+            "media": "EconomicsUK.com",
+            "sentiment": 3
+        },
+        {
+            "media": "FT.com",
+            "sentiment": 2
+        }
+    ],
+    "GOOG": [
+        {
+            "media": "FT.com",
+            "sentiment": 5
+        },
+        {
+            "media": "Guardian",
+            "sentiment": 3
+        }
+    ],
+    "AAPL": [
+        {
+            "media": "Guardian",
+            "sentiment": 1
+        },
+        {
+            "media": "BBC",
+            "sentiment": 2
+        }
+    ],
+    "GRPN": [
+        {
+            "media": "Money Week",
+            "sentiment": 3
+        },
+        {
+            "media": "FT.com",
+            "sentiment": 4
+        },
+        {
+            "media": "EconomicsUK.com",
+            "sentiment": 2
+        },
+        {
+            "media": "BBC",
+            "sentiment": 5
+        }
+    ],
+    "FB": [
+        {
+            "media": "Bloomberg",
+            "sentiment": 3
+        },
+        {
+            "media": "Guardian",
+            "sentiment": 5
+        }
+    ],
+    "MSFT": [
+        {
+            "media": "FT.com",
+            "sentiment": 2
+        },
+        {
+            "media": "BBC",
+            "sentiment": 3
+        }
+    ],
+    "INTC": [
+        {
+            "media": "Money Week",
+            "sentiment": 1
+        },
+        {
+            "media": "Guardian",
+            "sentiment": 2
+        },
+        {
+            "media": "EconomicsUK.com",
+            "sentiment": 4
+        }
+    ],
+    "NVDA": [
+        {
+            "media": "Money Week",
+            "sentiment": 4
+        },
+        {
+            "media": "BBC",
+            "sentiment": 2
+        },
+        {
+            "media": "FT.com",
+            "sentiment": 3
+        },
+        {
+            "media": "Guardian",
+            "sentiment": 5
+        }
+    ],
+    "QCOM": [
+        {
+            "media": "Bloomberg",
+            "sentiment": 1
+        },
+        {
+            "media": "BBC",
+            "sentiment": 3
+        }
+    ],
+    "AMZN": [
+        {
+            "media": "Bloomberg",
+            "sentiment": 2
+        },
+        {
+            "media": "EconomicsUK.com",
+            "sentiment": 3
+        }
+    ],
+    "TSLA": [
+        {
+            "media": "Bloomberg",
+            "sentiment": 4
+        },
+        {
+            "media": "Money Week",
+            "sentiment": 4
+        }
+    ]
+}
